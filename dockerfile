@@ -1,4 +1,3 @@
-Dockerfile
 ### Stage 1: Build ###
 FROM maven:3.8.2-openjdk-11 AS build
 WORKDIR /app
